@@ -1,0 +1,6 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: 
+
+Sitemap: https://serptest.github.io/sitemap.xml
+# END nuxt-robots
